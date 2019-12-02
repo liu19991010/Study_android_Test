@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">Study_android_Test</string>
-    <string name="users_name">请输入用户名：</string>
-    <string name="users_password">请输入密码：</string>
+    <string name="users_name">邮箱/用户名/电话/号码</string>
+    <string name="user_name">用户名:</string>
+    <string name="users_password">请输入密码</string>
     <string name="sign_in">登录</string>
     <string name="sign_up">注册</string>
     <string name="re_password">忘记密码？</string>
